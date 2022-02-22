@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony of truth against all the sowers of dissention, strife and discord, amongst the people of God, by what practice, or under what pretence soever being intended principally for Wales, yet else-where to be disposed by Friends ...</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27137</idno>
+            <idno type="STC">Wing B1540</idno>
+            <idno type="STC">ESTC R16276</idno>
+            <idno type="EEBO-CITATION">12159677</idno>
+            <idno type="OCLC">ocm 12159677</idno>
+            <idno type="VID">55266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 857:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony of truth against all the sowers of dissention, strife and discord, amongst the people of God, by what practice, or under what pretence soever being intended principally for Wales, yet else-where to be disposed by Friends ...</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Signed at end: William Bailey.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Society of Friends --  Wales.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55266:1" rendition="simple:additions"/>
+            <p>A Teſtimony of Truth AGAINST All the Sowers of <hi>Diſſention, Strife</hi> and <hi>Diſcord,</hi> amongſt the People of God, by what Practice, or under what Pre<g ref="char:EOLhyphen"/>tence ſoever.</p>
+            <p>Being intended principally for <hi>Wales,</hi> yet elſe-where to be diſpoſed by Friends, as in the Counſel of the Lord they ſhall be directed; that whereſoever any have made uſe of my Name upon ſuch an account, it may be ordered to do its ſervice.</p>
+            <p>Alſo its deſired, that all they whom it chiefly concerns, into whoſe hands it may come, that they would read it through with Pati<g ref="char:EOLhyphen"/>ence and Moderation, and judge of it in the righteous Judgment of Truth.</p>
+            <q>
+               <p>Didſt thou not ſow good Seed in thy field? from whence then hath it Tares? He ſaid unto them, An Enemy hath done this,
+<bibl>
+                     <hi>Mat. 13.27, 28.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>And the Lord God ſaid unto the Serpent, becauſe thou haſt done this, thou art curſed above all Cattel, and above every Beaſt of the field.
+<bibl>
+                     <hi>Gen. 3.14.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>Here you may ſee who is the Father of all the Sowers of evil Seeds.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55266:2"/>
+            <pb n="3" facs="tcp:55266:2"/>
+            <head>A Teſtimony of Truth AGAINST All the Sowers of <hi>Diſſention, Strife</hi> and <hi>Diſcord,</hi> amongſt the People of God, by what Practice, or under what Pre<g ref="char:EOLhyphen"/>tence ſoever, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My dear Friends,</salute>
+            </opener>
+            <p>WHereas I underſtand (by a Letter from <hi>Wales,</hi> which came to my hand) that ſome bad People in thoſe parts (who are led by a contrary ſpirit, of prejudice and en<g ref="char:EOLhyphen"/>mity, into marks and diſtinctions of Separation, from the faithful Friends and People of God, in purſuance of <hi>J. P</hi>'s Law, and Curſe, by keeping on the Hat in Prayer, and the like, in oppoſition to the pure Truth, and them that live and walk in it) have lately made uſe of my name, as if they had ſome encourage<g ref="char:EOLhyphen"/>ment or ſtrength through me, to carry on a deſign of Diviſion, Se<g ref="char:EOLhyphen"/>paration, and Oppoſition, againſt the faithful People and Servants of the Lord. The which being mentioned (or as it were laid to my charge) more then once, I could do no leſs (in the behalf of the Truth, and my own Innocency herein) but bear a faithful and publick Teſtimony againſt all ſuch things, expreſſions or practices whatſoever, tending to diviſion amongſt the Lords People, and alſo againſt that unruly ſpirit from whence any ſuch fruits and effects proceed, as having no Unity with it. For the Lord knoweth (and I
+<pb n="4" facs="tcp:55266:3"/>doubt not but many hundreds can teſtify) that I am not a man of ſtrife, or one cauſing diviſion or diſcord among the People of God, but on the contrary, greatly delighting in Peace and Unity. And for this cauſe do I labour and travel in ſoul and body, that true Love, Mercy and Peace, may daily increaſe and abound in, among them, that the Dominion of the righteous Seed all may witneſs, (that have any true breathings begotten in them after the living God, and the knowledge of his Salvation) whoſe Garment is with<g ref="char:EOLhyphen"/>out Seam or Rent from the top to the bottom. For I can truly ſay in the uprightneſs of my heart, That I have no greater Joy, than to ſee and feel my Unity in the pure Truth and unfaigned Love of God, with them that walk therein, and that Strife and Diſcord is an Abomination to me.</p>
+            <p>Therefore, far be it from me (for ever) to Joyn hands with ſuch, or any way encourage them that delight to ſow diſcord among brethren, by any ſuch practice (as before mentioned) or under any pretence whatſoever; but I do deny, and teſtifie againſt all whomſoever, or whereſoever, that ſhall at any time mention me, or make uſe of my Name upon ſuch an account. For the Lord knows (who ſearcheth my heart) That it is the Innocent Seed (in whom guile was never found, which hath long ſuffered, and been oppreſ<g ref="char:EOLhyphen"/>ſed under the bondage of corruption) that my Soul daily travels for, that it might be raiſed up into dominion, over all the contrary to reign, whoſe right alone it is, and for the refreſhing and ſtrength<g ref="char:EOLhyphen"/>ning thereof in the leaſt babe; and not at all to encourage or ſtrengthen that in any, which doth it oppreſs. For I know right well, the Lord hath determined (and already begun) to break the Op<g ref="char:EOLhyphen"/>preſſour of his Seed in pieces, in the particular and in the general. And he that gathereth not with Chriſt the Seed, (and to him who is the Life and the Truth) ſcattereth abroad, from the Truth and from the Life, and ſo from the Unity of it, which is kept in the Bond of Peace.</p>
+            <p>And therefore I further teſtify, that if at any time, either from my Words, Declaration or Writing, any have ſo wreſted or taken them, as to ſtrengthen the wrong part (in which lodgeth the pre<g ref="char:EOLhyphen"/>judice) as to oppoſe (or make a party againſt) the Truth, and them that walk in it (as I perceive ſome have done) that ſuch a thing was not at all the intent of them, nor in the thoughts of my
+<pb n="5" facs="tcp:55266:3"/>heart, as the Lord knoweth: Though I do acknowledge, that about five years ago, in the Priſon at <hi>Newgate,</hi> I did ſpeak ſome words unſeaſonable, as in the behalf of J. P. and unadviſed, not ſo clearly underſtanding the difference between Friends and him, (who kept many things from our knowledge, in tenderneſs to Truth, and in hope to have recovered him out of the Snares of the Enemy) which words I ſpake in reply, and (indeed, at that in<g ref="char:EOLhyphen"/>ſtant) in oppoſition to ſome words of J. B. but I ſoon after ſaw I had not done well, in ſo doing, and I conſented to the Judgment of the Lord in my heart againſt them, and that haſty inconſiderate part from whence they did proceed, though it was as in a kind of tenderneſs to him, upon the account of his Sufferings, which I (and many more) did judge had been very great. But J. B's. words are fulfilled, <hi>That he had made a Diviſion amongſt the Lords people</hi> or to that effect; and time, and the effects hath made it manifeſt; which hath been ſo great and wide, through him, among them that profeſs the ſame Truth, and the burthen thereof felt ſo heavy, through the ſtumbling of ſo many people; that I have ſaid in my heart, in the true and living ſence of the preſence of the Lord, That it had been good for him (and many more) that he had hever been born; and this I write not in the leaſt tincture of prejudice, or enmity againſt any perſon whatſoever, but in the true Love and Life of God, who is bleſſed for ever: Though I am ſenſible, that ſome may ſay, (as I once thought) that this is a hard ſaying, con<g ref="char:EOLhyphen"/>cerning one that ſuffered ſo much, and bore ſuch a Teſtimony up<g ref="char:EOLhyphen"/>on the account of Truth, and eſpecially from thee, who haſt been tender toward him, and never appeared in ſuch a ſharp manner as this againſt him, and his practiſes before, to ſpeak ſo of him (now he is dead and gone, and cannot anſwer for himſelf) as Chriſt did of <hi>Judas,</hi> which betrayed him, and went and hanged himſelf.</p>
+            <p>As in Anſwer to this, I never did delight to upbraid any man, or to lay open the nakednes of any, if with ſafety, in a clear conſcience, I could poſſibly cover it; but rather (if I may ſo ſpeak) have been too favourable in that reſpect; but the Lord knoweth my end and aim in all things (to whom I do appeal.) And as for that which is dead, I have little to ſay, one way or other; I look not at the per<g ref="char:EOLhyphen"/>ſon of any, either dead or living, in that reſpect; though I know there are veſſels of Honour, and of Diſhonour, which are different;
+<pb n="6" facs="tcp:55266:4"/>but its that which lives in them makes the difference. And <hi>Judas</hi> (people may ſay) is dead, and <hi>Cain,</hi> and <hi>Nimrod,</hi> and <hi>Eſau;</hi> and why do we mention them now they are dead and gone, and rake them up out of their Graves, as <hi>I. P.</hi> ſaid; foreſeeing by the Wit<g ref="char:EOLhyphen"/>neſs of God what would follow, though he was gone from it: And I teſtifie, in the Fear, holy Power, Name and Authority of the Lord, that <hi>Judas,</hi> nor <hi>Cain,</hi> never did ſo much hurt and miſ<g ref="char:EOLhyphen"/>chief amongſt the Lords people, as he hath done, as to the divert<g ref="char:EOLhyphen"/>ting of the minds of many from the Truth, and laying ſtumbling<g ref="char:EOLhyphen"/>blocks in the way of others, which would have been eaſily gather<g ref="char:EOLhyphen"/>ed into the Love of the Truth, and Fellowſhip of his Children. And <hi>Judas</hi> had part of the Miniſty, and eat in the ſame Diſh with the Diſciples, who were the true Miniſters of Chriſt, and yet he lifted up his heel againſt them; as he hath done, in a greater mea<g ref="char:EOLhyphen"/>ſure: And as for his Sufferings, I leave it, as not worth mention<g ref="char:EOLhyphen"/>ing, in compariſon of the unrighteouſneſs which hath proceeded from him, and the wickedneſs which was in his heart: for I can produce a Letter of his, which I lately found by accident (which I never ſaw before) which I do believe, that <hi>Judas</hi> (nor his bre<g ref="char:EOLhyphen"/>thren, before mentioned) did ever write the like, which is Abo<g ref="char:EOLhyphen"/>minable, and a ſhame to mention; yea, the very Heathen (that know not God) would bluſh to hear it; againſt which (at the read<g ref="char:EOLhyphen"/>ing and conſideration of the ground, and effects it would produce, if ſuch a thing ſhould be received, as a Principle among people) the dreadfull power, and holy zeal of the Lord, did ariſe in my heart, beyond expreſſion, even againſt the Root that bore it, as an unclean depth of Atheiſm, and Ranteriſm, as ever I heard of in all my dayes; the which had I formerly known that ſuch a thing would have proceeded from him, I could have done no leſs then have bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a publick teſtimony againſt him long ago: But however, its not to late to obey the motion of the Pure God, when he doth require it, for the Truths ſake, and the ſakes of ſome, who have ignorantly followed him in that character of diviſion before menti<g ref="char:EOLhyphen"/>oned, who may happily loath, and deteſt it, and teſtifie againſt him, and it, in their heart and practice, when they ſhall hear, con<g ref="char:EOLhyphen"/>ſider, and believe theſe things concerning the Author of it; who gave it forth as a Law, under the penalty of a curſe. Though ſome there are, ſo far given up to the ſpirit of Enmity, that it will
+<pb n="7" facs="tcp:55266:4"/>be very hard (if ever) for them to come into the one holy peace<g ref="char:EOLhyphen"/>able Spirit of Truth, and Love unfeigned, in which the Saints Fellowſhip is, (and ever was) which, if they repent not in time, will periſh for ever in their gainſaying.</p>
+            <p>And therefore I exhort all, who have any tenderneſs in them to<g ref="char:EOLhyphen"/>wards God and his Truth, to beware of letting in Prejudice, or Enmity againſt any, or to ſlight ſuch as God hath bleſſed with his Everlaſting ſpiritual Bleſſings; but rather look well to their own goings, <hi>and keep clean hands, and ſhut their eyes from ſeeing of evil, that they may dwell with the Everlaſting Burnings;</hi> for there is a Ge<g ref="char:EOLhyphen"/>neration, <hi>that would be plucking out</hi> (or at leaſt eſpying) <hi>a Mote in their brothers Eye, even while there remains a Beam in their own;</hi> and ſuch the Son of God calls Hypocrites, whoſe hearts aſſuredly Fearfulneſs will ſurpriſe in a Day of Tryal. And therfore, I ſay again, in the Love and Fear of the Lord, take heed of entertain<g ref="char:EOLhyphen"/>ing the leaſt thought of that Root of Bitterneſs, which will defile, and hath defiled many, but judge it out, in its firſt appearance; for it tends firſt to ſeperate from the feeling and enjoyment of the bleſſed preſence of the Lord, by which the Soul is refreſhed, and nouriſhed, and has dominion over its Enemies; and ſo from that Life in which the Saints Unity ſtands; and ſo from having Fellow<g ref="char:EOLhyphen"/>ſhip with them; and ſo profeſſing the ſame Truth, without the en<g ref="char:EOLhyphen"/>joyment of it, and acceptance with it, makes ſuch, like <hi>Cain,</hi> who envied his Brother; and therefore ſaid <hi>John, Let us love one another, not as</hi> Cain, <hi>who ſlew his Brother;</hi> here he mentions <hi>Cain,</hi> in that day, upon ſuch an occaſion, as an example, knowing that a little prejudice would eat like a Canker; and ſaid <hi>James, What a great matter a little fire kindleth?</hi> and will yet kindle, if it be not quenched, by the Water of the Life of the Lamb, which was ſlain from the Foundation of the World, (that lies in wickedneſs) in which Life is our Fellowſhip, which gives us dominion over all the Beaſts of the Field, and Raging Waves of the Sea, which caſt up mire and dirt, and cannot reſt: But in Chriſt, the Everlaſting Seed, all the upright in heart have Peace, which God, by his migh<g ref="char:EOLhyphen"/>ty Hand and Arm is exalting over all, that Truth and Righteouſ<g ref="char:EOLhyphen"/>neſs may have the Dominion, and Kingdom in the hearts of peo<g ref="char:EOLhyphen"/>ple, that he may Reign whoſe Right it is, and all the contrary be ſubdued and trodden under foot for ever, and every imagination,
+<pb n="8" facs="tcp:55266:5" rendition="simple:additions"/>that would riſe in oppoſition againſt him, be confounded; and every Weapon that is formed, and every Tongue that riſeth up againſt him, may be deſtroyed for ever, that his Government may be from Sea to Sea, and the knowledge of his Glory cover the Earth: This is the work which the Lord hath begun, and he will accompliſh it, and bring it to paſs, that Everlaſting Praiſes, Ho<g ref="char:EOLhyphen"/>nour, and Glory, may be given to his Great and Glorious Name, over all, for ever and ever, for he is worthy.</p>
+            <p>
+               <hi>So this ſhort Teſtimony in the Truth, and for its ſake, was on me to give forth, and to clear my own Innocency, that the Truth may appear, to the ſatisfaction of all faithfull Friends, and tender People, where any ſuch Report ſhall come, concerning me, in this Particular; and alſo to diſcourage that part or ſpirit in any, that luſteth to Envy and Prejudice, againſt the Truth, and them that walk in it.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>This 7th moneth, 1667.</date>
+               </dateline>
+               <signed>William Bailey.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
